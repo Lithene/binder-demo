@@ -1,7 +1,7 @@
 numpy >= 1.16.5
 plotly==4.12.0
 pandas==1.0.3;python_version>="3.0"
-yfinance==0.1.59
+yfinance
 matplotlib==3.4.2
 scipy==1.6.3
 chart-studio==1.1.0
